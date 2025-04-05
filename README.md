@@ -1,2 +1,2 @@
 # delta-demo
-demo for delta repo
+demo for delta repositires
